@@ -2,8 +2,6 @@
 
 using Proyecto_Grafica_U;
 
-Console.WriteLine("Hello, World!");
-
 using (Game game = new Game())
 {
     game.Run();
